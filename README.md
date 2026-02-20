@@ -38,7 +38,7 @@ web03 (Ubuntu 18.04 | 192.168.56.13): Legacy/Testing Web Server.
   Setup 
  1. Clone this repository:
   Bsh
-  git clone https://github.com/YOUR_USERNAME/vagrant-multi-node-automation.git
+  git clone https://github.com/onyeka30/vagrant-multi-node-automation.git
 cd vagrant-multi-node-automation
 2. Spin up the cluster:
    
